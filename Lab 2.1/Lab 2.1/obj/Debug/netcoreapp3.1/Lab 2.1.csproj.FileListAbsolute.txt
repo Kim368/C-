@@ -1,0 +1,11 @@
+D:\work\documents\Study\2-ой семестр\ИСП\Lab 2.1\Lab 2.1\bin\Debug\netcoreapp3.1\Lab 2.1.exe
+D:\work\documents\Study\2-ой семестр\ИСП\Lab 2.1\Lab 2.1\bin\Debug\netcoreapp3.1\Lab 2.1.deps.json
+D:\work\documents\Study\2-ой семестр\ИСП\Lab 2.1\Lab 2.1\bin\Debug\netcoreapp3.1\Lab 2.1.runtimeconfig.json
+D:\work\documents\Study\2-ой семестр\ИСП\Lab 2.1\Lab 2.1\bin\Debug\netcoreapp3.1\Lab 2.1.runtimeconfig.dev.json
+D:\work\documents\Study\2-ой семестр\ИСП\Lab 2.1\Lab 2.1\bin\Debug\netcoreapp3.1\Lab 2.1.dll
+D:\work\documents\Study\2-ой семестр\ИСП\Lab 2.1\Lab 2.1\bin\Debug\netcoreapp3.1\Lab 2.1.pdb
+D:\work\documents\Study\2-ой семестр\ИСП\Lab 2.1\Lab 2.1\obj\Debug\netcoreapp3.1\Lab 2.1.csprojAssemblyReference.cache
+D:\work\documents\Study\2-ой семестр\ИСП\Lab 2.1\Lab 2.1\obj\Debug\netcoreapp3.1\Lab 2.1.AssemblyInfoInputs.cache
+D:\work\documents\Study\2-ой семестр\ИСП\Lab 2.1\Lab 2.1\obj\Debug\netcoreapp3.1\Lab 2.1.AssemblyInfo.cs
+D:\work\documents\Study\2-ой семестр\ИСП\Lab 2.1\Lab 2.1\obj\Debug\netcoreapp3.1\Lab 2.1.dll
+D:\work\documents\Study\2-ой семестр\ИСП\Lab 2.1\Lab 2.1\obj\Debug\netcoreapp3.1\Lab 2.1.pdb

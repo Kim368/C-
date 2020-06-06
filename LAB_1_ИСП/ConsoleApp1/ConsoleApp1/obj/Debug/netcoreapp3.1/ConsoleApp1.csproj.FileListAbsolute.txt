@@ -1,0 +1,11 @@
+D:\work\documents\Study\2-ой семестр\ИСП\LAB_1_ИСП\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\work\documents\Study\2-ой семестр\ИСП\LAB_1_ИСП\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\work\documents\Study\2-ой семестр\ИСП\LAB_1_ИСП\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\work\documents\Study\2-ой семестр\ИСП\LAB_1_ИСП\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\work\documents\Study\2-ой семестр\ИСП\LAB_1_ИСП\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\work\documents\Study\2-ой семестр\ИСП\LAB_1_ИСП\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\work\documents\Study\2-ой семестр\ИСП\LAB_1_ИСП\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\work\documents\Study\2-ой семестр\ИСП\LAB_1_ИСП\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\work\documents\Study\2-ой семестр\ИСП\LAB_1_ИСП\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\work\documents\Study\2-ой семестр\ИСП\LAB_1_ИСП\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\work\documents\Study\2-ой семестр\ИСП\LAB_1_ИСП\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb

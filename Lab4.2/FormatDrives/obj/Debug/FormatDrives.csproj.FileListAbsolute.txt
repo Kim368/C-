@@ -1,0 +1,20 @@
+C:\Users\kraso\source\repos\FormatDrives\FormatDrives\bin\Debug\FormatDrives.exe.config
+C:\Users\kraso\source\repos\FormatDrives\FormatDrives\bin\Debug\FormatDrives.exe
+C:\Users\kraso\source\repos\FormatDrives\FormatDrives\bin\Debug\FormatDrives.pdb
+C:\Users\kraso\source\repos\FormatDrives\FormatDrives\obj\Debug\FormatDrives.csprojAssemblyReference.cache
+C:\Users\kraso\source\repos\FormatDrives\FormatDrives\obj\Debug\FormatDrives.Form1.resources
+C:\Users\kraso\source\repos\FormatDrives\FormatDrives\obj\Debug\FormatDrives.Properties.Resources.resources
+C:\Users\kraso\source\repos\FormatDrives\FormatDrives\obj\Debug\FormatDrives.csproj.GenerateResource.cache
+C:\Users\kraso\source\repos\FormatDrives\FormatDrives\obj\Debug\FormatDrives.csproj.CoreCompileInputs.cache
+C:\Users\kraso\source\repos\FormatDrives\FormatDrives\obj\Debug\FormatDrives.exe
+C:\Users\kraso\source\repos\FormatDrives\FormatDrives\obj\Debug\FormatDrives.pdb
+D:\work\Рабочий стол\2 term\2 term\C#\LAB4\FormatDrives\FormatDrives\bin\Debug\FormatDrives.exe.config
+D:\work\Рабочий стол\2 term\2 term\C#\LAB4\FormatDrives\FormatDrives\bin\Debug\FormatDrives.exe
+D:\work\Рабочий стол\2 term\2 term\C#\LAB4\FormatDrives\FormatDrives\bin\Debug\FormatDrives.pdb
+D:\work\Рабочий стол\2 term\2 term\C#\LAB4\FormatDrives\FormatDrives\obj\Debug\FormatDrives.csprojAssemblyReference.cache
+D:\work\Рабочий стол\2 term\2 term\C#\LAB4\FormatDrives\FormatDrives\obj\Debug\FormatDrives.Form1.resources
+D:\work\Рабочий стол\2 term\2 term\C#\LAB4\FormatDrives\FormatDrives\obj\Debug\FormatDrives.Properties.Resources.resources
+D:\work\Рабочий стол\2 term\2 term\C#\LAB4\FormatDrives\FormatDrives\obj\Debug\FormatDrives.csproj.GenerateResource.cache
+D:\work\Рабочий стол\2 term\2 term\C#\LAB4\FormatDrives\FormatDrives\obj\Debug\FormatDrives.csproj.CoreCompileInputs.cache
+D:\work\Рабочий стол\2 term\2 term\C#\LAB4\FormatDrives\FormatDrives\obj\Debug\FormatDrives.exe
+D:\work\Рабочий стол\2 term\2 term\C#\LAB4\FormatDrives\FormatDrives\obj\Debug\FormatDrives.pdb

@@ -1,0 +1,13 @@
+D:\work\documents\Study\2-ой семестр\ИСП\LAb 8\LAb 8\bin\Debug\netcoreapp3.1\LAb 8.exe
+D:\work\documents\Study\2-ой семестр\ИСП\LAb 8\LAb 8\bin\Debug\netcoreapp3.1\LAb 8.deps.json
+D:\work\documents\Study\2-ой семестр\ИСП\LAb 8\LAb 8\bin\Debug\netcoreapp3.1\LAb 8.runtimeconfig.json
+D:\work\documents\Study\2-ой семестр\ИСП\LAb 8\LAb 8\bin\Debug\netcoreapp3.1\LAb 8.runtimeconfig.dev.json
+D:\work\documents\Study\2-ой семестр\ИСП\LAb 8\LAb 8\bin\Debug\netcoreapp3.1\LAb 8.dll
+D:\work\documents\Study\2-ой семестр\ИСП\LAb 8\LAb 8\bin\Debug\netcoreapp3.1\LAb 8.pdb
+D:\work\documents\Study\2-ой семестр\ИСП\LAb 8\LAb 8\obj\Debug\netcoreapp3.1\LAb 8.csprojAssemblyReference.cache
+D:\work\documents\Study\2-ой семестр\ИСП\LAb 8\LAb 8\obj\Debug\netcoreapp3.1\LAb 8.csproj.CoreCompileInputs.cache
+D:\work\documents\Study\2-ой семестр\ИСП\LAb 8\LAb 8\obj\Debug\netcoreapp3.1\LAb 8.AssemblyInfoInputs.cache
+D:\work\documents\Study\2-ой семестр\ИСП\LAb 8\LAb 8\obj\Debug\netcoreapp3.1\LAb 8.AssemblyInfo.cs
+D:\work\documents\Study\2-ой семестр\ИСП\LAb 8\LAb 8\obj\Debug\netcoreapp3.1\LAb 8.dll
+D:\work\documents\Study\2-ой семестр\ИСП\LAb 8\LAb 8\obj\Debug\netcoreapp3.1\LAb 8.pdb
+D:\work\documents\Study\2-ой семестр\ИСП\LAb 8\LAb 8\obj\Debug\netcoreapp3.1\LAb 8.genruntimeconfig.cache
